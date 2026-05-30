@@ -1,4 +1,4 @@
-How to add physical media to your Jellyfin Library.
+#How to add physical media to your Jellyfin Library.
 
 1) Download the required directory e.g. DVD or Bluray
 2) Copy the directory to your Librarys directory structure.
