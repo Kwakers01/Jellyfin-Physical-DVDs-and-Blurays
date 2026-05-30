@@ -21,8 +21,10 @@ If you use the reporting tool Dashborad->Reports->Click on the 3 dots next to Me
 # How I created this for Bluray
 
 I used Xmedia Recoder to copy the DTS audio from another media file and set the required encoding and video size for the video clip I used 1920x1080_x264_HEVC_DTS_5.1 and created a .m2ts file.
-I then used tsMuxer (windows version) to create the BDMV directory files.
+I then used tsMuxer (windows version) to create the BDMV directory files (BIG THANKS to the tsMuxer team).
 
 # Adding Icons to the poster.jpg and folder.jpg using the NEMO file manager (on Linux Mint)
 
-If you wish I have also written a couple of bash files to allow me to easily add a DVD or Bluray icon to the top left of the posters.
+If you wish I have also written a few bash files to allow you to easily add a DVD or Bluray icon to the top left of the posters.
+
+See the "Overlay DVD and Bluray Icons for Jellyfin" directory for info (this was quickly put together and roughly documented - sorry).
