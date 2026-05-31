@@ -28,7 +28,7 @@ I then used tsMuxer (windows version) to create the BDMV directory files (BIG TH
 
 * Bash needs to be installed on the system (cmd$ bash --version.)
 * Jellyfin Server needs to be installed on the system (cmd$ jellyfin --version)
-* You DO NOT need root access (sudo) to install and run this application, but it is helpful.
+* You DO NOT need root access (sudo) to install and run this application.
 
 ## How to add icons to the poster.jpg and folder.jpg using the NEMO file manager (on Linux Mint)
 
@@ -42,8 +42,9 @@ See the "Overlay DVD and Bluray Icons for Jellyfin" directory for info (this was
 >Once you have set up the bash scripts and Nemo, you can then use Nemo to find the folder.jpg or poster.jpg in the media folder and in nemo right click the folder and select the required icon.  If you have a larger library of DVD's you can search the main folder using Nemo for folder.jpg or poster.jpg, slect all and right click and pick your icon.
 
 >[!NOTE]
->If you change the default poster image using Jellyfin's "Edit Image" and downloading fromthe web, you will need to go into the media folder and delete the *.jpg-orig file otherwise when you try to add the DVD/DB icon back to the new image the bash script will re-read the old *.jpg-orig file and put the old poster image back into the library.
-
+>KNOWN ISSUE : If you change the poster image using Jellyfin's "Edit Image" thus downloading a new poster from the web, you will need to go into the media folder and delete the *.jpg-orig file BEFORE downloading.  Otherwise when you try to add the DVD/DB icon back to the new image the bash script will re-read the old *.jpg-orig poster file and put the old poster image back into the library (I spent an hour wondering why jellyfin kept re-downloading the default poster when it wasn't).
+>
+>Quick Info : Delete the files **folder.jpg/poster.jpg** and **folder.jpg-orig/folder.jpg-orig** before you download a new poster uing Jellyfin's "Edit Image".
 
 
 
