@@ -1,0 +1,9 @@
+[Nemo Action]
+Name=Add Bluray icon (black)
+Comment=Add DVD Icon to folder.jpg image
+Exec=bash -c '~/.local/share/scripts/jellyfin-icons/bluray-black-tm-dc.bash %F'
+Icon-Name=
+Selection=notnone
+Extensions=jpg;jpeg;
+
+

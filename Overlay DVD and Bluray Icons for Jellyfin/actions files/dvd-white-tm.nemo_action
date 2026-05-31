@@ -1,0 +1,9 @@
+[Nemo Action]
+Name=Add DVD icon (white)
+Comment=Add DVD Icon to folder.jpg image
+Exec=bash -c '~/.local/share/scripts/jellyfin-icons/dvd-white-tm-dc.bash %F'
+Icon-Name=
+Selection=notnone
+Extensions=jpg;jpeg;
+
+
