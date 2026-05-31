@@ -26,11 +26,12 @@ I used Xmedia Recoder to copy the DTS audio from another media file and set the 
 I then used tsMuxer (windows version) to create the BDMV directory files (BIG THANKS to the tsMuxer team).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-# Adding DVD / Blu-ray Icons to Posters
+# Adding DVD / Blu-ray Icons to Posters (Linux Mint)
 
 ## Requirements
 
 * Bash needs to be installed on the system (cmd$ bash --version.)
+* Nemo File Manager (for XFCE install using Software Manager)
 * Jellyfin Server needs to be installed on the system (cmd$ jellyfin --version)
 * You DO NOT need root access (sudo) to install and run this application.
 
