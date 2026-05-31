@@ -4,6 +4,8 @@ Comment=Add DVD Icon to folder.jpg image
 Exec=bash -c '~/.local/share/scripts/jellyfin-icons/dvd-black-tm-dc.bash %F'
 Icon-Name=
 Selection=notnone
+Quote=double
+EscapeSpaces=true
 Extensions=jpg;jpeg;
 
 
