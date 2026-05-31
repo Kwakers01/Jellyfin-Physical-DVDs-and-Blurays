@@ -1,5 +1,0 @@
-These bash scripts add a DVD icon or Bluray icon to the folder.jpg or poster.jpg files in Jellyfin to show a DVD/BD icon in the top right corner of the cover in Jellyfin.
-
-Using nemo select the folder.jpg or poster.jpg and right click and select the required overlay.
-
-folder.jpg/poster.jpg will be copied to folder.jpg-orig/poster.jpg-orig and folder.jpg/poster.jpg will be resized to 1000x1500 and the icon placed in top left corner so that the blue tick boxes do not cover the icon.
