@@ -3,7 +3,7 @@
 make a directory ~/.local/share/scripts/jellyfin-icons/
 copy files from "bash files" to ~/.local/share/scripts/jellyfin-icons/
 make bash scripts executable if not already (rightclick->properties->permissions->execute in nemo or using chmod)
-copy files from "actions" to ~/.local/share/nemo/actions/
+copy files from "actions files" to ~/.local/share/nemo/actions/
 copy files from "icons" to ~/.local/share/icons/         ---- Note: I have not created any icons so there isn't any
 
 close nemo windows and restart it in a terminal with
