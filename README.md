@@ -43,7 +43,7 @@ See the "Overlay DVD and Bluray Icons for Jellyfin" directory for info (this was
 
 >[!TIP]
 >Under your admin setting, ensure that you have set up the Jellyfin library (in Libraries->click 3 dots->Manage Library) to "Save artwork into media folder" and "Metadata Savers - Nfo" are selected (I did this from something I read, I am not sure if the nfo bit is actually needed).
-
+>
 >Once you have set up the bash scripts and Nemo, you can then use Nemo to find the folder.jpg or poster.jpg in the media folder and in nemo right click the folder and select the required icon.  If you have a larger library of DVD's you can search the main folder using Nemo for folder.jpg or poster.jpg, slect all and right click and pick your icon.
 
 >[!NOTE]
