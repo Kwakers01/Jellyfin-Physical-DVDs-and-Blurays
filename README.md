@@ -11,7 +11,8 @@
 When you click play, the file will show a 1 second clip with "On DVD" on the screen.
 
 >[!NOTE]
->The same clip is played in the Bluray directory i.e. "On DVD". Unfortuately I created the clip a long time ago and I'm not fussed about it saying On Bluray, just that I know that the movie is in my DVD collection.
+>The same clip is played in the Bluray directory i.e. "On DVD".
+>Unfortuately I created the clip a long time ago and I'm not fussed about it saying On Bluray, just that I know that the movie is in my DVD collection.
 
 ## Reports 
 (you may need to load the plugin called Reports)
