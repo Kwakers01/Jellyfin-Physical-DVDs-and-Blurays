@@ -1,0 +1,10 @@
+#DC 2026-05-29 Add dvd icon to folder.jog for jellyfin
+[Nemo Action]
+Name=Add Bluray icon (white)
+Comment=Add DVD Icon to folder.jpg image
+Exec=~/.local/share/dvd-apps/dvd-bluray-icons/bluray-white-tm-dc.bash %F
+Icon-Name=
+Selection=notnone
+Extensions=jpg;jpeg;
+
+
