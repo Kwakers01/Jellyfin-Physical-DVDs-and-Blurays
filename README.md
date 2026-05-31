@@ -25,6 +25,7 @@ If you use the reporting tool Dashborad->Reports->Click on the 3 dots next to Me
 I used Xmedia Recoder to copy the DTS audio from another media file and set the required encoding and video size for the video clip I used 1920x1080_x264_HEVC_DTS_5.1 and created a .m2ts file.
 I then used tsMuxer (windows version) to create the BDMV directory files (BIG THANKS to the tsMuxer team).
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
 # Adding DVD / Blu-ray Icons to Posters
 
 ## Requirements
