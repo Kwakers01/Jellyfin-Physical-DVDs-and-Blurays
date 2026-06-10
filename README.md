@@ -49,7 +49,7 @@ See the "Overlay DVD and Bluray Icons for Jellyfin" directory for info (this was
 >[!NOTE]
 >KNOWN ISSUE : If you change the poster image using Jellyfin's "Edit Image" thus downloading a new poster from the web, you will need to go into the media folder and delete the *.jpg-orig file BEFORE downloading.  Otherwise when you try to add the DVD/DB icon back to the new image the bash script will re-read the old *.jpg-orig poster file and put the old poster image back into the library (I spent an hour wondering why jellyfin kept re-downloading the default poster when it wasn't).
 >
->Quick Info : Delete the files **folder.jpg/poster.jpg** and **folder.jpg-orig/folder.jpg-orig** before you download a new poster uing Jellyfin's "Edit Image".
+>Quick Info : Delete the files **folder.jpg/poster.jpg** and **folder.jpg-orig/folder.jpg-orig** before you download a new poster using Jellyfin's "Edit Image".
 
 
 
